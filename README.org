@@ -1,0 +1,10 @@
+* ocicl
+
+ocicl is an OCI-based ASDF system distribution and management tool for
+Common Lisp.
+
+|---------+---------------------------------------------------------------------|
+| source  | file:https://github.com/ocicl/ocicl/archive/refs/tags/v2.6.5.tar.gz |
+| version | 2.6.5                                                               |
+| systems | ocicl                                                               |
+|---------+---------------------------------------------------------------------|
