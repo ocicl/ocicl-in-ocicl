@@ -5,7 +5,7 @@ Common Lisp.
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/ocicl/ocicl.git |
-| commit  | f5faca8                                |
+| commit  | d6757bd                                |
 | systems | ocicl                                  |
 |---------+----------------------------------------|
 
